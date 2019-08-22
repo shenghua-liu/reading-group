@@ -12,7 +12,7 @@ big graph mining, time series mining, anomaly detection, healthcare
 
 - Every week post the papers that you are intereested from by click [Issue](https://github.com/shenghua-liu/reading-group/issues), and post a new post.
 - Title is the paper's title.
-- conent must include Authors, Code, Task, Datasets, and anything you would like to comments, such as one-sentence summary, Questions, Sharing, etc. 
+- Conent must include Authors, Code, Task, Datasets, and anything you would like to comments, such as one-sentence summary, Questions, Sharing, etc. 
   Here is an example: [How Powerful Are Graph Networks](https://docs.google.com/document/d/1-xEng8w-Zw1sT23Wtxo5etXcEOTsx7q1TYT29nHBkhE/edit)
 - Other students can answer to questions, or sharing your other comments by post thread. And discussions continues...
 
@@ -28,3 +28,4 @@ big graph mining, time series mining, anomaly detection, healthcare
 - [source{d} paper reading club](https://github.com/src-d/reading-club/blob/master/README.md)
 - [How to run effective paper reading groups](http://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html)
 - [Amazon Staff Meetings: “No Powerpoint”](https://conorneill.com/2012/11/30/amazon-staff-meetings-no-powerpoint/)
+- [Paper with code](https://paperswithcode.com)
