@@ -10,7 +10,7 @@ big graph mining, time series mining, anomaly detection, healthcare
 
 ## How it works
 
-- Every week post the paper that you are intereested from by click [Issue](https://github.com/shenghua-liu/reading-group/issues), and post a new post.
+- Every week post the papers that you are intereested from by click [Issue](https://github.com/shenghua-liu/reading-group/issues), and post a new post.
 - Title is the paper's title.
 - conent must include Authors, Code, Task, Datasets, and anything you would like to comments, such as one-sentence summary, Questions, Sharing, etc. 
   Here is an example: [How Powerful Are Graph Networks](https://docs.google.com/document/d/1-xEng8w-Zw1sT23Wtxo5etXcEOTsx7q1TYT29nHBkhE/edit)
