@@ -21,4 +21,6 @@ big graph mining, time series mining, anomaly detection, healthcare
 - post/vote for a paper that you like
 
 ## Good references
-[source{d} paper reading club](https://github.com/src-d/reading-club/blob/master/README.md)
+- [source{d} paper reading club](https://github.com/src-d/reading-club/blob/master/README.md)
+- [How to run effective paper reading groups](http://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html)
+- [Amazon Staff Meetings: “No Powerpoint”](https://conorneill.com/2012/11/30/amazon-staff-meetings-no-powerpoint/)
