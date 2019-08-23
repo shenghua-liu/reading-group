@@ -5,7 +5,7 @@ big graph mining, time series mining, anomaly detection, healthcare
 ## Goal
 
 - promote reading papers
-- rise awareness on current research directions in big graphs, time series, anomaly detection, healthcare communities
+- rise awareness on current research directions in ML, DM, big graphs, time series, anomaly detection, healthcare communities
 - create opportunity for collaborations
 
 ## How it works
