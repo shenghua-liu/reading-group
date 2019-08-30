@@ -1,5 +1,5 @@
 # reading-group
-big graph mining, time series mining, anomaly detection, healthcare
+ML, DM, big graph mining, time series mining, anomaly detection, healthcare
 
 
 ## Goal
